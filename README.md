@@ -1,6 +1,6 @@
-### Hi there
+<!--### Hi there
 
-<!--
+
 **Pewmafe/Pewmafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 <p align="center">
@@ -42,4 +42,4 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 
 ### Contacto 📫
 Email: matias-leandro@outlook.com
-[Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/) -->
+[Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
