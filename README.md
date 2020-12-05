@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-Hola 👋 
+Bienvenido a mi perfil 😄 
 </p>
 
 <strong>Sobre mi 💬 </strong>
@@ -33,13 +33,15 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 
 <strong>Proyectos 🔭 </strong>
 
+
+- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Página web en Spring MVC que simula ser una red social gaming. Trabajo Final para la materia Taller web. Trabajo grupal.
+- [Camionardo](https://github.com/Pewmafe/TpWeb2-Final) - Página web en con PHP y bootstrap que simula ser un sistema sobre pedidos de transporte de carga. Trabajo Final para la materia programación web 2. Trabajo grupal.
 - [Dotadex](https://github.com/Pewmafe/dotadex) - Pagina web que simula ser una pokedex pero con personajes del famoso juego Dota2.
-- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Página web en Spring MVC que simula ser una red social gaming. Trabajo Final para la materia Taller web. Trabajo grupal. 
 - [Lang](https://github.com/Pewmafe/Final-Interfaces) - Página web sobre cursos de idiomas online. Trabajo final para introducción a las interfaces. 
 - [KVCURSOS](https://github.com/Pewmafe/KVCURSOS) - Página web simple para cursos de RCP.
 - [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traduccion al español de este viedeojuego online.
 - [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Trabajo final para programación web en la universidad. Trabajo grupal.
 
 ### Contacto 📫
-Email: matias-leandro@outlook.com
+Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com
 [Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
