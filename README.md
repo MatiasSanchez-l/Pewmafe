@@ -43,5 +43,5 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 - [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Trabajo final para programación web en la universidad. Trabajo grupal.
 
 ### Contacto 📫
-Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com
+Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com <br>
 [Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
