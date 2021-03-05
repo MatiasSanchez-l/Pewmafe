@@ -29,6 +29,8 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 
 - Java
 - PHP
+- NodeJS
+- PostgreSQL
 - MySQL
 - HTML
 - CSS
