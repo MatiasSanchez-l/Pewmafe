@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-Bienvenido a mi perfil 😄 
+Bienvenido a mi perfil
 </p>
 
 <strong>Sobre mi 💬 </strong>
@@ -25,17 +25,13 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 </p>
 
 
-  <strong>Tecnologías 💻 </strong>
+  <strong>💻 Tecnologías </strong>
 
-- Java
-- PHP
-- NodeJS
-- PostgreSQL
-- MySQL
-- HTML
-- CSS
+- Backend: Java, Nodejs, PHP
+- Base de Datos: SQL, MySQL, PostgreSQL
+- Frontend: HTML, CSS, JavaScript
 
-<strong>Proyectos 🔭 </strong>
+<strong>🔭 Proyectos</strong>
 
 - [Portafolio](https://pewmafe.github.io/Portfolio2020/)
 - [JuntosxOscar](https://juntosxoscar.com.ar/) - Página web donde la gente puede comprar bonos contribución para ayudar a la causa. Trabajo Grupal.
@@ -47,6 +43,6 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 - [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traduccion al español de este viedeojuego online.
 - [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Trabajo final para programación web en la universidad. Trabajo grupal.
 
-### Contacto 📫
+###📫 Contacto 
 Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com <br>
 [Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
