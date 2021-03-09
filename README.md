@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Bienvenido a mi perfil
 </p>
 
-<strong>Sobre mi 💬 </strong>
+<strong>💬 Sobre mi</strong>
 <p align="center">
 Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videojuegos, actualmente estoy estudiando Desarrollo web en la Universidad Nacional de la Matanza y me encuentro en la búsqueda de mi primer empleo. 
 </p>
@@ -27,9 +27,9 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 
   <strong>💻 Tecnologías </strong>
 
-- Backend: Java, Nodejs, PHP
-- Base de Datos: SQL, MySQL, PostgreSQL
-- Frontend: HTML, CSS, JavaScript
+- Backend: <em>Java, Nodejs, PHP</em>
+- Base de Datos: <em>SQL, MySQL, PostgreSQL</em>
+- Frontend: <em>HTML, CSS, JavaScript</em>
 
 <strong>🔭 Proyectos</strong>
 
