@@ -34,13 +34,13 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
 <strong>🔭 Proyectos</strong>
 
 - [Portafolio](https://pewmafe.github.io/Portfolio2020/)
-- [JuntosxOscar](https://juntosxoscar.com.ar/) - Página web donde la gente puede comprar bonos contribución para ayudar a la causa. Trabajo Grupal.
-- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Página web en Spring MVC que simula ser una red social gaming. Trabajo Final para la materia Taller web. Trabajo grupal.
-- [Camionardo](https://github.com/Pewmafe/TpWeb2-Final) - Página web en con PHP y bootstrap que simula ser un sistema sobre pedidos de transporte de carga. Trabajo Final para la materia programación web 2. Trabajo grupal.
-- [Dotadex](https://github.com/Pewmafe/dotadex) - Pagina web que simula ser una pokedex pero con personajes del famoso juego Dota2.
+- [JuntosxOscar](https://juntosxoscar.com.ar/) - Página web con <b>Nodejs, Postgresql, React</b> donde la gente puede comprar bonos contribución para ayudar a la causa. Trabajo Grupal.
+- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Página web en <b>Spring MVC</b> que simula ser una red social gaming. Trabajo Final para la materia Taller web. Trabajo grupal.
+- [Camionardo](https://github.com/Pewmafe/TpWeb2-Final) - Página web en con <b>PHP</b> y bootstrap que simula ser un sistema sobre pedidos de transporte de carga. Trabajo Final para la materia programación web 2. Trabajo grupal.
+- [Dotadex](https://github.com/Pewmafe/dotadex) - Pagina web con <b>PHP</b> que simula ser una pokedex pero con personajes del famoso juego Dota2.
 - [Lang](https://github.com/Pewmafe/Final-Interfaces) - Página web sobre cursos de idiomas online. Trabajo final para introducción a las interfaces. 
 - [KVCURSOS](https://github.com/Pewmafe/KVCURSOS) - Página web simple para cursos de RCP.
-- [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traduccion al español de este viedeojuego online.
+- [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traducción al español de este viedeojuego online.
 - [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Trabajo final para programación web en la universidad. Trabajo grupal.
 
 ###📫 Contacto 
