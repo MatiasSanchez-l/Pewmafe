@@ -28,7 +28,7 @@ Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videoj
   <strong>💻 Tecnologías </strong>
 
 - Backend: <em>Java, Nodejs, PHP</em>
-- Base de Datos: <em>SQL, MySQL, PostgreSQL</em>
+- Base de Datos: <em>MySQL, SQLServer, PostgreSQL</em>
 - Frontend: <em>HTML, CSS, JavaScript</em>
 
 <strong>🔭 Proyectos</strong>
