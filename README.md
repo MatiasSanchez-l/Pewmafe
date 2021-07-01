@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Bienvenido a mi perfil
 </p>
 
-<strong>💬 Sobre mi</strong>
+<strong>💬 Sobre mí</strong>
 <p align="center">
 Me llamo Matias, tengo 24 años. Empecé a programar porque me gustan los videojuegos, actualmente estoy estudiando Desarrollo web en la Universidad Nacional de la Matanza. 
 </p>
