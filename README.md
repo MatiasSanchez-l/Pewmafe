@@ -16,12 +16,25 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-Bienvenido a mi perfil
+Welcome to my profile
 </p>
 
 <strong>💬 Sobre mí</strong>
 <p align="center">
-Empecé a programar porque me gustan los videojuegos, actualmente estoy estudiando Desarrollo web en la Universidad Nacional de la Matanza. 
+Hi,
+My name is Matias Sanchez.
+I started programming because I like video games.
+I am currently working as a Java developer at Artekium.
+I'm studying Web Development at the National University of La Matanza.
+
+I have developed projects using a wide variety of technologies:
+-Frontend: Angular, HTML, CSS, Javascript, Jquery
+-Backend: Java, C#, NodeJS, PHP
+-Database: MySQL, SQLServer, PostgreSQL, DynamoDB
+-OS: Linux, Windows
+-GIT
+
+I have taken courses focusing on Backend development with Java, Spring MVC, Hibernate, REST APIs.
 </p>
 
 
