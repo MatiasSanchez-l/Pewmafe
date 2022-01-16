@@ -21,18 +21,17 @@ Welcome to my profile
 
 <strong>💬 Sobre mí</strong>
 <p align="center">
-Hi,
-My name is Matias Sanchez.
-I started programming because I like video games.
-I am currently working as a Java developer at Artekium.
-I'm studying Web Development at the National University of La Matanza.
+Hi,My name is Matias Sanchez.<br>
+I started programming because I like video games.<br>
+I am currently working as a Java developer at Artekium.<br>
+I'm studying Web Development at the National University of La Matanza.<br><br>
 
-I have developed projects using a wide variety of technologies:
--Frontend: Angular, HTML, CSS, Javascript, Jquery
--Backend: Java, C#, NodeJS, PHP
--Database: MySQL, SQLServer, PostgreSQL, DynamoDB
--OS: Linux, Windows
--GIT
+I have developed projects using a wide variety of technologies:<br>
+-Frontend: Angular, HTML, CSS, Javascript, Jquery<br>
+-Backend: Java, C#, NodeJS, PHP<br>
+-Database: MySQL, SQLServer, PostgreSQL, DynamoDB<br>
+-OS: Linux, Windows<br>
+-GIT<br><br>
 
 I have taken courses focusing on Backend development with Java, Spring MVC, Hibernate, REST APIs.
 </p>
