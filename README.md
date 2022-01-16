@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<p align="center">
+<p align="left">
 Welcome to my profile
 </p>
 
