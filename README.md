@@ -21,7 +21,7 @@ Welcome to my profile
 
 <strong>💬 About me</strong>
 <p align="left">
-Hi,My name is Matias Sanchez.<br>
+Hi, my name is Matias Sanchez.<br>
 I started programming because I like video games.<br>
 I am currently working as a Java developer at Artekium.<br>
 I'm studying Web Development at the National University of La Matanza.<br><br>
