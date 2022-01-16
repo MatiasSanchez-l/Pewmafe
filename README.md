@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 Welcome to my profile
 </p>
 
-<strong>💬 Sobre mí</strong>
-<p align="center">
+<strong>💬 About me</strong>
+<p align="left">
 Hi,My name is Matias Sanchez.<br>
 I started programming because I like video games.<br>
 I am currently working as a Java developer at Artekium.<br>
@@ -37,13 +37,13 @@ I have taken courses focusing on Backend development with Java, Spring MVC, Hibe
 </p>
 
 
-  <strong>💻 Tecnologías </strong>
+  <strong>💻 Technologies </strong>
 
-- Backend: <em>Java, Nodejs, PHP</em>
-- Base de Datos: <em>MySQL, SQLServer, PostgreSQL</em>
-- Frontend: <em>HTML, CSS, JavaScript</em>
+- Backend: <em>Java, C#, Nodejs, PHP</em>
+- Databases: <em>MySQL, SQLServer, PostgreSQL, DynamoDB</em>
+- Frontend: <em>Angular, HTML, CSS, JavaScript, Jquery, zk</em>
 
-<strong>🔭 Proyectos</strong>
+<strong>🔭 Projects</strong>
 
 - [Portafolio](https://pewmafe.github.io/Portfolio2020/)
 - [JuntosxOscar](https://github.com/Pewmafe/rifasApp) - Página web con <b>Nodejs, Postgresql, React</b> donde la gente puede comprar bonos contribución para ayudar a la causa. Trabajo Grupal.
