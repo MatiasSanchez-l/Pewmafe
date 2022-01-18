@@ -45,16 +45,16 @@ I have taken courses focusing on Backend development with Java, Spring MVC, Hibe
 
 <strong>🔭 Projects</strong>
 
-- [Portafolio](https://pewmafe.github.io/Portfolio2022/index.html)
-- [JuntosxOscar](https://github.com/Pewmafe/rifasApp) - Página web con <b>Nodejs, Postgresql, React</b> donde la gente puede comprar bonos contribución para ayudar a la causa. Trabajo Grupal.
-- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Página web en <b>Spring MVC</b> que simula ser una red social gaming. Trabajo Final para la materia Taller web. Trabajo grupal.
-- [Camionardo](https://github.com/Pewmafe/TpWeb2-Final) - Página web en con <b>PHP</b> y bootstrap que simula ser un sistema sobre pedidos de transporte de carga. Trabajo Final para la materia programación web 2. Trabajo grupal.
-- [Dotadex](https://github.com/Pewmafe/dotadex) - Pagina web con <b>PHP</b> que simula ser una pokedex pero con personajes del famoso juego Dota2.
-- [Lang](https://github.com/Pewmafe/Final-Interfaces) - Página web sobre cursos de idiomas online. Trabajo final para introducción a las interfaces. 
-- [KVCURSOS](https://github.com/Pewmafe/KVCURSOS) - Página web simple para cursos de RCP.
-- [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traducción al español de este viedeojuego online.
-- [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Trabajo final para programación web en la universidad. Trabajo grupal.
+- [Portfolio](https://pewmafe.github.io/Portfolio2022/index.html)
+- [JuntosxOscar](https://github.com/Pewmafe/rifasApp) - Web page using PERN stack to help Oscar.
+- [RagequitOficial](https://github.com/Pewmafe/RagequitOficial) - Gaming social media with Spring MVC.
+- [Camionardo](https://github.com/Pewmafe/TpWeb2-Final) - Web page to rent Freight transports.
+- [Dotadex](https://github.com/Pewmafe/dotadex) - Web page to see Heroes from DOTA2.
+- [Lang](https://github.com/Pewmafe/Final-Interfaces) - Web page about laguages courses.
+- [KVCURSOS](https://github.com/Pewmafe/KVCURSOS) - Web page about CPR courses.
+- [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traducción al español de este viedeojuego online. Collaboration in the spanish translation.
+- [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Web page about programming courses.
 
-###📫 Contacto 
+###📫 Contact 
 Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com <br>
 [Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
