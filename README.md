@@ -55,6 +55,6 @@ I have taken courses focusing on Backend development with Java, Spring MVC, Hibe
 - [hordes-loc](https://github.com/Pewmafe/hordes-loc) - Participación en la traducción al español de este viedeojuego online. Collaboration in the spanish translation.
 - [TrabajoPracticoPrograWeb](https://github.com/Pewmafe/TrabajoPracticoPrograWeb) - Web page about programming courses.
 
-###📫 Contact 
+###📫 Contact <br>
 Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com <br>
 [Linkedin](https://www.linkedin.com/in/mat%C3%ADas-sanchez-8a4798115/)
