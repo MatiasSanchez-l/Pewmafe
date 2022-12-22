@@ -22,25 +22,25 @@ Here are some ideas to get you started:
 <p align="left">
 Hi, my name is Matias Sanchez.<br>
 I started programming because I like video games.<br>
-I am currently at Santander as a software engineer.<br>
-I'm studying Web Development at the National University of La Matanza.<br><br>
+I am currently working as a Software Engineer at Santander Tecnología Argentina mainly with Reactjs.<br><br>
 
 I have developed projects using a wide variety of technologies:<br>
--Frontend: Angular, HTML, CSS, Javascript, Jquery<br>
--Backend: Java, C#, NodeJS, PHP<br>
--Database: MySQL, SQLServer, PostgreSQL, DynamoDB<br>
+-Frontend: React, Angular, HTML, CSS, Javascript, Jquery<br>
+-Backend: Java, NodeJS, C#, PHP<br>
+-Database: MySQL, SQLServer, PostgreSQL, MongoDB<br>
 -OS: Linux, Windows<br>
 -GIT<br><br>
 
-I have taken courses focusing on Backend development with Java, Spring MVC, Hibernate, REST APIs.
+I have taken courses focusing on Backend development with Java, Spring MVC, Hibernate, REST APIs.<br>
+And recently some Frontend Courses React.
 </p>
 
 
   <strong>💻 Technologies </strong>
 
-- Backend: <em>Java, C#, Nodejs, PHP</em>
-- Databases: <em>MySQL, SQLServer, PostgreSQL, DynamoDB</em>
-- Frontend: <em>Angular, HTML, CSS, JavaScript, Jquery, zk</em>
+- Backend: <em>Java, Nodejs</em>
+- Databases: <em>SQLDatabases, MongoDB</em>
+- Frontend: <em>Reactjs, Angular</em>
 
 <strong>🔭 Projects</strong>
 
