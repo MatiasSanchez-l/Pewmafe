@@ -57,5 +57,5 @@ And recently some Frontend Courses React.
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 Email: lomatiasleandro@gmail.com / matias-leandro@outlook.com <br>
-<a href="https://www.linkedin.com/in/mat%C3%ADas-sanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santifagliano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matiassanchez-l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santifagliano" height="30" width="40" /></a>
 </p>
